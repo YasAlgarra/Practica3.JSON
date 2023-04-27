@@ -1,0 +1,314 @@
+{
+    "comparadorProductosSupermercado": [
+        {
+            "supermercado1": [
+                {
+                    "nombre": "Mercadona",
+                    "ciudad": "Cádiz",
+                    "direccion": "Calle Marquesa, 2",
+                    "geolocalizacion": {
+                        "altitud": 743.0,
+                        "longitud": -70.709145,
+                        "latitud": -33.595995
+                    }
+                },
+                {
+                    "seccion": "fruteria",
+                    "productos": [
+                        {
+                            "nombre": "zanahoria",
+                            "unidadesDisponibles": 30,
+                            "unidadMedidaVenta": "kg",
+                            "precioVentaP": 1.27,
+                            "oferta": true,
+                            "periodoVigencia": "17/05/2023",
+                            "precioOferta": 0.82,
+                            "adqiuirido": false
+                        },
+                        {
+                            "nombre": "mango",
+                            "unidadesDisponibles": 15,
+                            "unidadMedidaVenta": "kg",
+                            "precioVentaP": 3.26,
+                            "oferta": false,
+                            "adqiuirido": true,
+                            "cantidadAdquirida": 2
+                        },
+                        {
+                            "nombre": "manzana",
+                            "unidadesDisponibles": 19,
+                            "unidadMedidaVenta": "kg",
+                            "precioVentaP": 1.05,
+                            "oferta": true,
+                            "periodoVigencia": "1/05/2023",
+                            "precioOferta": 0.93,
+                            "adqiuirido": false
+                        }
+                    ]
+                },
+                {
+                    "seccion": "horno de pan",
+                    "productos": [
+                        {
+                            "nombre": "baguette",
+                            "unidadesDisponibles": 50,
+                            "unidadMedidaVenta": "unidad",
+                            "precioVentaP": 0.33,
+                            "oferta": false,
+                            "adqiuirido": false
+                        },
+                        {
+                            "nombre": "magdalena",
+                            "unidadesDisponibles": 21,
+                            "unidadMedidaVenta": "pack de 3 unidades",
+                            "precioVentaP": 2.66,
+                            "oferta": true,
+                            "periodoVigencia": "21/05/2023",
+                            "precioOferta": 2.20,
+                            "adqiuirido": true,
+                            "cantidadAdquirida": 3
+                        },
+                        {
+                            "nombre": "croissant mantequilla",
+                            "unidadesDisponibles": 12,
+                            "unidadMedidaVenta": "unidad",
+                            "precioVentaP": 0.25,
+                            "oferta": false,
+                            "adqiuirido": false
+                        }
+                    ]
+                },
+                {
+                    "seccion": "carnicería",
+                    "productos": [
+                        {
+                            "nombre": "chuletas de cerdo",
+                            "unidadesDisponibles": 10,
+                            "unidadMedidaVenta": "kg",
+                            "precioVentaP": 3.29,
+                            "oferta": false,
+                            "adqiuirido": false
+                        },
+                        {
+                            "nombre": "hamburguesas vacuno",
+                            "unidadesDisponibles": 5,
+                            "unidadMedidaVenta": "kg",
+                            "precioVentaP": 2.50,
+                            "oferta": true,
+                            "periodoVigencia": "6/05/2023",
+                            "precioOferta": 2.00,
+                            "adqiuirido": true,
+                            "cantidadAdquirida": 2
+                        }
+                    ]
+                }
+            ],
+
+
+            "supermercado2": [
+                {
+                    "nombre": "Lidl",
+                    "ciudad": "Cádiz",
+                    "direccion": "Calle General Pintós, 57",
+                    "geolocalizacion": {
+                        "altitud": 820.0,
+                        "longitud": -70.709261,
+                        "latitud": -34.5959889
+                    }
+                },
+                {
+                    "seccion": "fruteria",
+                    "productos": [
+                        {
+                            "nombre": "zanahoria",
+                            "unidadesDisponibles": 57,
+                            "unidadMedidaVenta": "kg",
+                            "precioVentaP": 0.99,
+                            "oferta": true,
+                            "periodoVigencia": "17/05/2023",
+                            "precioOferta": 0.39,
+                            "adqiuirido": true,
+                            "cantidadAdquirida": 1
+                        },
+                        {
+                            "nombre": "mango",
+                            "unidadesDisponibles": 21,
+                            "unidadMedidaVenta": "kg",
+                            "precioVentaP": 3.59,
+                            "oferta": false,
+                            "adqiuirido": false
+                        },
+                        {
+                            "nombre": "pera",
+                            "unidadesDisponibles": 29,
+                            "unidadMedidaVenta": "kg",
+                            "precioVentaP": 2.04,
+                            "oferta": false,
+                            "adqiuirido": true,
+                            "cantidadAdquirida": 2
+                        }
+                    ]
+                },
+                {
+                    "seccion": "horno de pan",
+                    "productos": [
+                        {
+                            "nombre": "baguette",
+                            "unidadesDisponibles": 31,
+                            "unidadMedidaVenta": "unidad",
+                            "precioVentaP": 0.30,
+                            "oferta": false,
+                            "adqiuirido": false
+                        },
+                        {
+                            "nombre": "pan de hamburguesa",
+                            "unidadesDisponibles": 10,
+                            "unidadMedidaVenta": "pack de 6 unidades",
+                            "precioVentaP": 1.50,
+                            "oferta": true,
+                            "periodoVigencia": "29/05/2023",
+                            "precioOferta": 1.39,
+                            "adqiuirido": false
+                        },
+                        {
+                            "nombre": "croissant mantequilla",
+                            "unidadesDisponibles": 5,
+                            "unidadMedidaVenta": "unidad",
+                            "precioVentaP": 0.27,
+                            "oferta": false,
+                            "adqiuirido": false
+                        }
+                    ]
+                },
+                {
+                    "seccion": "pescadería",
+                    "productos": [
+                        {
+                            "nombre": "salmon",
+                            "unidadesDisponibles": 10,
+                            "unidadMedidaVenta": "kg",
+                            "precioVentaP": 5.52,
+                            "oferta": true,
+                            "periodoVigencia": "5/05/2023",
+                            "precioOferta": 4.68,
+                            "adqiuirido": false
+                        },
+                        {
+                            "nombre": "gamba",
+                            "unidadesDisponibles": 15,
+                            "unidadMedidaVenta": "kg",
+                            "precioVentaP": 16.30,
+                            "oferta": true,
+                            "periodoVigencia": "23/05/2023",
+                            "precioOferta": 14.20,
+                            "adqiuirido": false
+                        }
+                    ]
+                }
+            ],
+
+
+            "supermercado3": [
+                {
+                    "nombre": "Consum",
+                    "ciudad": "Cádiz",
+                    "direccion": "Calle Colombia, 21",
+                    "geolocalizacion": {
+                        "altitud": 869.0,
+                        "longitud": -70.709210,
+                        "latitud": -33.6939889
+                    }
+                },
+                {
+                    "seccion": "congelados",
+                    "productos": [
+                        {
+                            "nombre": "croquetas",
+                            "unidadesDisponibles": 14,
+                            "unidadMedidaVenta": "kg",
+                            "precioVentaP": 1.20,
+                            "oferta": false,
+                            "adqiuirido": true,
+                            "cantidadAdquirida": 1
+                        },
+                        {
+                            "nombre": "pizza margarita",
+                            "unidadesDisponibles": 8,
+                            "unidadMedidaVenta": "unidad",
+                            "precioVentaP": 2.21,
+                            "oferta": true,
+                            "periodoVigencia": "13/05/2023",
+                            "precioOferta": 1.98,
+                            "adqiuirido": false
+                        },
+                        {
+                            "nombre": "patatas para freir",
+                            "unidadesDisponibles": 18,
+                            "unidadMedidaVenta": "kg",
+                            "precioVentaP": 2.04,
+                            "oferta": false,
+                            "adqiuirido": true,
+                            "cantidadAdquirida": 1
+                        }
+                    ]
+                },
+                {
+                    "seccion": "horno de pan",
+                    "productos": [
+                        {
+                            "nombre": "baguette",
+                            "unidadesDisponibles": 20,
+                            "unidadMedidaVenta": "unidad",
+                            "precioVentaP": 0.31,
+                            "oferta": false,
+                            "adqiuirido": false
+                        },
+                        {
+                            "nombre": "pan de hamburguesa",
+                            "unidadesDisponibles": 15,
+                            "unidadMedidaVenta": "pack de 6 unidades",
+                            "precioVentaP": 1.67,
+                            "oferta": true,
+                            "periodoVigencia": "26/05/2023",
+                            "precioOferta": 1.20,
+                            "adqiuirido": true,
+                            "cantidadAdquirida": 2
+                        },
+                        {
+                            "nombre": "croissant mantequilla",
+                            "unidadesDisponibles": 13,
+                            "unidadMedidaVenta": "unidad",
+                            "precioVentaP": 0.39,
+                            "oferta": false,
+                            "adqiuirido": false
+                        }
+                    ]
+                },
+                {
+                    "seccion": "pescadería",
+                    "productos": [
+                        {
+                            "nombre": "salmon",
+                            "unidadesDisponibles": 4,
+                            "unidadMedidaVenta": "kg",
+                            "precioVentaP": 4.96,
+                            "oferta": false,
+                            "adqiuirido": false
+                        },
+                        {
+                            "nombre": "gamba",
+                            "unidadesDisponibles": 23,
+                            "unidadMedidaVenta": "kg",
+                            "precioVentaP": 14.00,
+                            "oferta": true,
+                            "periodoVigencia": "9/05/2023",
+                            "precioOferta": 13.53,
+                            "adqiuirido": true,
+                            "cantidadAdquirida": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+} 
